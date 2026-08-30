@@ -1,2 +1,4 @@
 # LoZ-Icons
-Icons from "The Legend of Zelda"
+
+Icons from the Legend of Zelda series.
+
